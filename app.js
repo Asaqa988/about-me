@@ -41,7 +41,7 @@ function question1 (){
    question1() 
 
     // Q2 
-function question2 (){
+function question2 (){ 
     let answer2 = prompt("Do You Think JAVASCRIPT is a cool lang")
     //console.log("No will be Correct / yes will be Wrong")
     
