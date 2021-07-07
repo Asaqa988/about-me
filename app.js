@@ -72,7 +72,7 @@ function question2 (){
 }
 question2 ()
 
-     
+      
  
     // Q3 
 function question3(){
@@ -109,7 +109,7 @@ function question3(){
 }
 question3 ()
 
-
+ 
 
     // Q4 
 function question4 (){
