@@ -7,7 +7,7 @@ name = name.toUpperCase()
 alert("welcome" + "  " + name)
 // Q1
 
-function question1() {
+
     let answer1 = prompt("Do you Think I'm a fan of barcelona - Answer with YES Or NO Y/N")
     //console.log("No will be Correct / yes will be Wrong")
     answer1 = answer1.toLowerCase()
@@ -37,13 +37,12 @@ function question1() {
             break;
     }
 
-}
-question1()
+
 
 // Q2 
-function question2() {
+
     let answer2 = prompt("Do You Think i can do it in ASAC ? please answer with yes or no")
-    //console.log("No will be Correct / yes will be Wrong")
+    //console.log("No will be wrong / yes will be correct")
 
     answer2 = answer2.toLowerCase()
     switch (answer2) {
@@ -69,17 +68,9 @@ function question2() {
             break;
     }
 
-}
-question2()
-
-
-
-
-
 
 
 // Q3 
-function question3() {
 
     let answer3 = prompt("Do you think i will quit this course ? please answer with yes or no")
     //console.log("No will be Correct / yes will be Wrong")
@@ -110,15 +101,14 @@ function question3() {
             break;
     }
 
-}
-question3()
+
 
 
 
 // Q4 
-function question4() {
+
     let answer4 = prompt("do you think i like Mansaf the most ? please answer with yes or no ")
-    //console.log("No will be Correct / yes will be Wrong")
+    //console.log("No will be wrong / yes will be correct")
     answer4 = answer4.toLowerCase()
 
     switch (answer4) {
@@ -143,8 +133,7 @@ function question4() {
             ShowMessage()
             break;
     }
-}
-question4()
+
 
 
 
@@ -152,7 +141,7 @@ question4()
 
 // Q5 
 
-function question5() {
+
     let answer5 = prompt("Do you Think i have an american car ? please answer with yes or no ")
     //console.log("No will be Correct / yes will be Wrong") 
 
@@ -180,8 +169,7 @@ function question5() {
             break;
     }
 
-}
-question5()
+
 
 
 
